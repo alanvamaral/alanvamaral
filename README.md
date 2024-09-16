@@ -2,7 +2,6 @@
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/alanvamaral)
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/2Yfhh4xQVv)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/alan7v)
 
 [![Estatísticas do GitHub de Alan](https://github-readme-stats.vercel.app/api?username=alanvamaral&show_icons=true&theme=transparent)](https://github.com/alanvamaral) [![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=alanvamaral&layout=compact&theme=transparent)](https://github.com/alanvamaral)
 
